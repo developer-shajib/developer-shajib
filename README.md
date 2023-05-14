@@ -1,4 +1,5 @@
-<img align="right" src="https://github.com/developer-shajib/developer-shajib/blob/main/zBiman.png" width="100%" height="250">
+<img align="right" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1651780522995/zZbL8WM2v.gif" width="100%" height="200">
+
 &nbsp;
 <h1 align="center">Hi, I'm Md. Shajibul Islam</h1>
 <h3 align="center">A passionate Full Stack(MERN) developer from Bangladesh</h3>
@@ -6,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=developer-shajib&label=Profile%20views&color=0e75b6&style=flat" alt="developer-shajib" /> </p>
 
-<img align="right" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1651780522995/zZbL8WM2v.gif" width="340" height="200">
+
 
 
 
