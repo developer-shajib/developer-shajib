@@ -18,7 +18,7 @@
 
 
 
-<img width="40" height="40" src="/icon/L-Arrow.gif"/> I’m also currently learning **DSA, BlockChain, Next.js, Headless CMS(strapi/sanity)**
+<p><img width="20" height="10" src="/icon/L-Arrow.gif"/> I’m also currently learning **DSA, BlockChain, Next.js, Headless CMS(strapi/sanity)**</p> 
 
 - 👨‍💻 All of my projects are available at [developershajib.com](developershajib.com)
 
