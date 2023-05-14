@@ -6,9 +6,9 @@
 <h1 align="center"><em>Hi, I'm Md. Shajibul Islam</em></h1>
 <h3 align="center"><em>A passionate Full Stack(MERN) developer from Bangladesh</em></h3>
 
-  <a href="https://coderjibon.com/" target="blank"><img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="coderjibon" /></a> 
+  <a href="https://facebook.com/" target="blank"><img widht="60" height="60" src="/icon/fb-removebg-preview.png" alt="coderjibon" /></a> 
   
-  <a href="https://www.linkedin.com/in/jibon-roy-a3948219a/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="coderjibon"/></a>
+
 
 
 
