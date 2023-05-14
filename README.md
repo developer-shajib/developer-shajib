@@ -3,12 +3,12 @@
 <h1 align="center">Hi, I'm Md. Shajibul Islam</h1>
 <h3 align="center">A passionate Full Stack(MERN) developer from Bangladesh</h3>
 
-<img align="right" src="https://i.gifer.com/7SvE.gif" width="300" height="200">
-
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=developer-shajib&label=Profile%20views&color=0e75b6&style=flat" alt="developer-shajib" /> </p>
 
-<p  align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=developer-shajib" alt="developer-shajib" /></a> </p>
+<img align="right" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1651780522995/zZbL8WM2v.gif" width="340" height="200">
+
+
 
 - 🌱 I’m also currently learning **DSA, BlockChain, Next.js, Headless CMS(strapi/sanity)**
 
@@ -35,3 +35,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=developer-shajib&show_icons=true&locale=en" alt="developer-shajib" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=developer-shajib&" alt="developer-shajib" /></p>
+
+<p  align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=developer-shajib" alt="developer-shajib" /></a> </p>
