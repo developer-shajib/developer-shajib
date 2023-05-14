@@ -1,8 +1,16 @@
 <img align="right" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1651780522995/zZbL8WM2v.gif" width="100%" height="200">
 
 &nbsp;
+
+
 <h1 align="center">Hi, I'm Md. Shajibul Islam</h1>
 <h3 align="center">A passionate Full Stack(MERN) developer from Bangladesh</h3>
+A passionate Full Stack(MERN) developer from *Bangladesh*
+
+  <a href="https://coderjibon.com/" target="blank"><img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="coderjibon" /></a> 
+  
+  <a href="https://www.linkedin.com/in/jibon-roy-a3948219a/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="coderjibon"/></a>
+
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=developer-shajib&label=Profile%20views&color=0e75b6&style=flat" alt="developer-shajib" /> </p>
@@ -23,7 +31,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/sunhail_shajib" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sunhail_shajib" height="30" width="40" /></a>
+![Twitter](https://twitter.com/sunhail_shajib)
+[Twitter](<a href="https://twitter.com/sunhail_shajib" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sunhail_shajib" height="30" width="40" /></a>)
 <a href="https://linkedin.com/in/developer-shajib" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="developer-shajib" height="30" width="40" /></a>
 <a href="https://fb.com/sunhailshajib1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sunhail shajib" height="30" width="40" /></a>
 </p>
