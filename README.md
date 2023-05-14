@@ -18,7 +18,7 @@
 
 
 
-- 🌱 I’m also currently learning **DSA, BlockChain, Next.js, Headless CMS(strapi/sanity)**
+<img width="40" height="40" src="/icon/L-Arrow.gif"/> I’m also currently learning **DSA, BlockChain, Next.js, Headless CMS(strapi/sanity)**
 
 - 👨‍💻 All of my projects are available at [developershajib.com](developershajib.com)
 
