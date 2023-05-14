@@ -3,9 +3,8 @@
 &nbsp;
 
 
-<h1 align="center">Hi, I'm Md. Shajibul Islam</h1>
-<h3 align="center">A passionate Full Stack(MERN) developer from Bangladesh</h3>
-A passionate Full Stack(MERN) developer from *Bangladesh*
+<h1 align="center"><em>Hi, I'm Md. Shajibul Islam</em></h1>
+<h3 align="center"><em>A passionate Full Stack(MERN) developer from Bangladesh</em></h3>
 
   <a href="https://coderjibon.com/" target="blank"><img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="coderjibon" /></a> 
   
