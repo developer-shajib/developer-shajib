@@ -1,10 +1,9 @@
 <img align="right" src="https://github.com/developer-shajib/developer-shajib/blob/main/zBiman.png" width="100%" height="250">
-
 &nbsp;
 <h1 align="center">Hi, I'm Md. Shajibul Islam</h1>
 <h3 align="center">A passionate Full Stack(MERN) developer from Bangladesh</h3>
 
-<img align="right" src="https://media.tenor.com/x7FrMk4q10IAAAAM/hacker-reality-colored-keyboard.gif" width="300" height="200">
+<img align="right" src="https://i.gifer.com/7SvE.gif" width="300" height="200">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=developer-shajib&label=Profile%20views&color=0e75b6&style=flat" alt="developer-shajib" /> </p>
