@@ -1,3 +1,4 @@
+<img align="right" src="https://github.com/developer-shajib/developer-shajib/blob/main/zBiman.png" width="100%" height="250">
 <h1 align="center">Hi, I'm Md. Shajibul Islam</h1>
 <h3 align="center">A passionate Full Stack(MERN) developer from Bangladesh</h3>
 
