@@ -10,7 +10,7 @@
  <h1><i>About Me</i></h1>
  
 <!-- Right side animation Image-->
-<img align="right" src="https://media3.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="300" height="300">
+<img align="right" src="https://thumbs.gfycat.com/KindDistortedIrrawaddydolphin-size_restricted.gif" width="300" height="300">
 
 <i><img width="20" height="10" src="/icon/L-Arrow.gif"/> I’m currently learning <b>DSA, BlockChain, Next.js, Headless CMS(strapi/sanity).</b></i> </br>
 <i><img width="20" height="10" src="/icon/L-Arrow.gif"/> Ask me about <b>MERN, DSA, Full Stack Web related.</b></i>  </br>
