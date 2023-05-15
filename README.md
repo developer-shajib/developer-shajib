@@ -51,16 +51,5 @@
 [![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/aura_dark/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/aura_dark/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 
-
-<!-- Chat -->
-<!--
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=developer-shajib&show_icons=true&locale=en&layout=compact" alt="developer-shajib" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=developer-shajib&show_icons=true&locale=en" alt="developer-shajib" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=developer-shajib&" alt="developer-shajib" /></p>
-
-![My Github Status](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=monokai&show_icons=true)
--->
-
-
 <!-- Github trophy Image-->
 <p  align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=developer-shajib" alt="developer-shajib" /></a> </p>
