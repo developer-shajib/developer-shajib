@@ -14,7 +14,7 @@
 <!-- Right side animation Image-->
 <img align="right" src="https://media3.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="300" height="300">
 
-<i><img width="20" height="10" src="/icon/L-Arrow.gif"/> I’m also currently learning <b>DSA, BlockChain, Next.js, Headless CMS(strapi/sanity).</b></i> </br>
+<i><img width="20" height="10" src="/icon/L-Arrow.gif"/> I’m currently learning <b>DSA, BlockChain, Next.js, Headless CMS(strapi/sanity).</b></i> </br>
 <i><img width="20" height="10" src="/icon/L-Arrow.gif"/> Ask me about <b>MERN, DSA, Full Stack Web related.</b></i>  </br>
 <i><img width="20" height="10" src="/icon/L-Arrow.gif"/> All of my projects are available at <a href="http://developershajib.com">developershajib.com</a></i>  </br>
 <i><img width="20" height="10" src="/icon/L-Arrow.gif"/> How to reach me <a href="mailto:sunhailshajib1@gmail.com"> sunhailshajib1@gmail.com </a></i>  </br>
@@ -42,11 +42,19 @@
 <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a>
  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> 
  <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/webpack/media/master/logo/icon-square-big.png" alt="webpack" width="40" height="40"/> </a> </p>
+ 
+ 
+[![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/transparent/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/transparent/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/transparent/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/transparent/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/transparent/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
 
 <!-- Chat -->
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=developer-shajib&show_icons=true&locale=en&layout=compact" alt="developer-shajib" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=developer-shajib&show_icons=true&locale=en" alt="developer-shajib" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=developer-shajib&" alt="developer-shajib" /></p>
+
+![My Github Status](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=monokai&show_icons=true)
 
 <!-- Github trophy Image-->
 <p  align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=developer-shajib" alt="developer-shajib" /></a> </p>
