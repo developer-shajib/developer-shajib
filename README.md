@@ -43,16 +43,16 @@
  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> 
  <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/webpack/media/master/logo/icon-square-big.png" alt="webpack" width="40" height="40"/> </a> </p>
  
- 
+ <!--Chart copy from this repo - https://github.com/vn7n24fzkq/github-profile-summary-cards-example/tree/master/profile-summary-card-output -->
 [![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/transparent/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/transparent/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/transparent/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/transparent/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/transparent/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 
 <!-- Chat -->
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=developer-shajib&show_icons=true&locale=en&layout=compact" alt="developer-shajib" /></p>
+<!--<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=developer-shajib&show_icons=true&locale=en&layout=compact" alt="developer-shajib" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=developer-shajib&show_icons=true&locale=en" alt="developer-shajib" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=developer-shajib&" alt="developer-shajib" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=developer-shajib&" alt="developer-shajib" /></p>-->
 
 ![My Github Status](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=monokai&show_icons=true)
 
