@@ -3,7 +3,7 @@
 
 <!-- Title -->
 <h1 align='center'> <em>Hi, I'm Md. Shajibul Islam</em> <img align='center' src="/icon/me.png" width='40' height='40'/></h1>
-<h3 align="center"><em>A passionate Full Stack(MERN) developer from Bangladesh</em></h3>
+<h3 align="center"><em>A Full Stack(MERN) developer from Bangladesh</em></h3>
 
 
 <!-- About Me-->
