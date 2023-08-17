@@ -14,15 +14,16 @@
 
 <i><img width="20" height="10" src="/icon/L-Arrow.gif"/> I’m currently learning <b>DSA, BlockChain, Next.js, Headless CMS(strapi/sanity).</b></i> </br>
 <i><img width="20" height="10" src="/icon/L-Arrow.gif"/> Ask me about <b>MERN, DSA, Full Stack Web related.</b></i>  </br>
-<i><img width="20" height="10" src="/icon/L-Arrow.gif"/> All of my projects are available at <a href="http://developershajib.com">developershajib.com</a></i>  </br>
+<i><img width="20" height="10" src="/icon/L-Arrow.gif"/> All of my projects are available at <a href="https://developershajib.vercel.app/">My Portfolio</a></i>  </br>
 <i><img width="20" height="10" src="/icon/L-Arrow.gif"/> How to reach me <a href="mailto:sunhailshajib1@gmail.com"> sunhailshajib1@gmail.com </a></i>  </br>
 <i><img width="20" height="10" src="/icon/L-Arrow.gif"/> Fun fact I think I am funny🤣🤣 But I love coding very much & implements difficult logic.</i> 
 
 <!-- Connect me -->
 <h3 align="left">Connect with me:</h3>
- <a href="https://www.facebook.com/sunhailshajib1" target="blank"><img widht="60" height="60" src="/icon/fb.png" alt="developershajib" /></a> 
- <a href="https://twitter.com/sunhail_shajib" target="blank"><img widht="60" height="60" src="/icon/tw.png" alt="developershajib" /></a> 
- <a href="https://www.linkedin.com/in/developer-shajib" target="blank"><img widht="60" height="60" src="/icon/ln.png" alt="developershajib" /></a> 
+ <a href="https://www.facebook.com/sunhailshajib1" target="_blank">Facebook</a> 
+ <a href="https://twitter.com/sunhail_shajib" target="_blank">Twitter</a> 
+ <a href="https://www.linkedin.com/in/developer-shajib" target="_blank">Linkedin</a> 
+ <a href="https://join.skype.com/invite/wsEEnti5hAUH" target="_blank">Skype</a> 
 
 
 
