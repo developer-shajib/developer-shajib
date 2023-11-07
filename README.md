@@ -2,7 +2,7 @@
 <img align="center" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1651780522995/zZbL8WM2v.gif" width="100%" height="200">
 
 <!-- Title -->
-<h1 align='center'> <em>Hi, I'm Md. Shajibul Islam</em> <img align='center' src="/icon/me.png" width='40' height='40'/></h1>
+<h1 align='center'> <em>Hi, I'm Md. Shajibul Islam</em> </h1>
 <h3 align="center"><em>A Full Stack(MERN) developer from Bangladesh</em></h3>
 
 
